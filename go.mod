@@ -1,4 +1,4 @@
-module github.com/362227/fake115uploader
+module github.com/gdhdhdh1441414/FAKE362227
 
 go 1.18
 
